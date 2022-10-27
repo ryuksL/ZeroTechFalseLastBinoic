@@ -1,14 +1,13 @@
 using Verse;
 
-namespace LingGame
-{
-    public class ComppLingFPBTaoZhuang : HediffCompProperties
-    {
-        public HediffDef hediffDef;
+namespace LingGame;
 
-        public ComppLingFPBTaoZhuang()
-        {
-            compClass = typeof(CompLingFPBTaoZhuang);
-        }
+public class ComppLingFPBTaoZhuang : HediffCompProperties
+{
+    public HediffDef hediffDef;
+
+    public ComppLingFPBTaoZhuang()
+    {
+        compClass = typeof(CompLingFPBTaoZhuang);
     }
 }

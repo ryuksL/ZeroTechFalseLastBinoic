@@ -1,34 +1,33 @@
 using RimWorld;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class CompLingFPBShaRenQiangHua : HediffComp
 {
-    public class CompLingFPBShaRenQiangHua : HediffComp
+    private int killannt;
+    private int ttis;
+
+    public override void CompExposeData()
     {
-        private int killannt;
-        private int ttis;
+        Scribe_Values.Look(ref killannt, "killannt");
+    }
 
-        public override void CompExposeData()
+    public override void CompPostTick(ref float severityAdjustment)
+    {
+        base.CompPostTick(ref severityAdjustment);
+        ttis++;
+        if (ttis < 6000)
         {
-            Scribe_Values.Look(ref killannt, "killannt");
+            return;
         }
 
-        public override void CompPostTick(ref float severityAdjustment)
+        if (Pawn.records.GetAsInt(RecordDefOf.Kills) > killannt)
         {
-            base.CompPostTick(ref severityAdjustment);
-            ttis++;
-            if (ttis < 6000)
-            {
-                return;
-            }
-
-            if (Pawn.records.GetAsInt(RecordDefOf.Kills) > killannt)
-            {
-                parent.Severity += 0.1f * (Pawn.records.GetAsInt(RecordDefOf.Kills) - killannt);
-            }
-
-            killannt = Pawn.records.GetAsInt(RecordDefOf.Kills);
-            ttis = 0;
+            parent.Severity += 0.1f * (Pawn.records.GetAsInt(RecordDefOf.Kills) - killannt);
         }
+
+        killannt = Pawn.records.GetAsInt(RecordDefOf.Kills);
+        ttis = 0;
     }
 }

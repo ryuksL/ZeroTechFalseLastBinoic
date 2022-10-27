@@ -1,8 +1,7 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class Hediff_TaozhuangXiaoGuo : HediffWithComps
 {
-    public class Hediff_TaozhuangXiaoGuo : HediffWithComps
-    {
-    }
 }

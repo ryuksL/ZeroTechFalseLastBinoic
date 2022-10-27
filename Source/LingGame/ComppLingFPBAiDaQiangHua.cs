@@ -1,12 +1,11 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class ComppLingFPBAiDaQiangHua : HediffCompProperties
 {
-    public class ComppLingFPBAiDaQiangHua : HediffCompProperties
+    public ComppLingFPBAiDaQiangHua()
     {
-        public ComppLingFPBAiDaQiangHua()
-        {
-            compClass = typeof(CompLingFPBAiDaQiangHua);
-        }
+        compClass = typeof(CompLingFPBAiDaQiangHua);
     }
 }
