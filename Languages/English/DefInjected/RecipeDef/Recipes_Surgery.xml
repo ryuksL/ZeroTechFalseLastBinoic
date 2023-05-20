@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <installLingFPS_Blank_Brain.label>Install the Plain White Technology Brain</installLingFPS_Blank_Brain.label>
+  <installLingFPS_Blank_Brain.description>Install a bionic limb</installLingFPS_Blank_Brain.description>
+  <installLingFPS_Blank_Brain.jobString>in surgery.</installLingFPS_Blank_Brain.jobString>
+  <installLingFPS_Blank_Eye.label>Install Plain White Tech Eye</installLingFPS_Blank_Eye.label>
+  <installLingFPS_Blank_Eye.description>Install a bionic limb</installLingFPS_Blank_Eye.description>
+  <installLingFPS_Blank_Eye.jobString>in surgery.</installLingFPS_Blank_Eye.jobString>
+  <installLingFPS_Blank_Ear.label>Install Plain White Tech Ear</installLingFPS_Blank_Ear.label>
+  <installLingFPS_Blank_Ear.description>Install a bionic limb</installLingFPS_Blank_Ear.description>
+  <installLingFPS_Blank_Ear.jobString>in surgery.</installLingFPS_Blank_Ear.jobString>
+  <installLingFPS_Blank_Nose.label>Install Plain White Tech Nose</installLingFPS_Blank_Nose.label>
+  <installLingFPS_Blank_Nose.description>Install a bionic limb</installLingFPS_Blank_Nose.description>
+  <installLingFPS_Blank_Nose.jobString>in surgery.</installLingFPS_Blank_Nose.jobString>
+  <installLingFPS_Blank_Jaw.label>Install Plain White Tech Jaw</installLingFPS_Blank_Jaw.label>
+  <installLingFPS_Blank_Jaw.description>Install a bionic limb</installLingFPS_Blank_Jaw.description>
+  <installLingFPS_Blank_Jaw.jobString>in surgery.</installLingFPS_Blank_Jaw.jobString>
+  <installLingFPS_Blank_Spine.label>Install Plain White Tech Spine</installLingFPS_Blank_Spine.label>
+  <installLingFPS_Blank_Spine.description>Install a bionic limb</installLingFPS_Blank_Spine.description>
+  <installLingFPS_Blank_Spine.jobString>in surgery.</installLingFPS_Blank_Spine.jobString>
+  <installLingFPS_Blank_Sternum.label>Install Plain White Tech Sternum</installLingFPS_Blank_Sternum.label>
+  <installLingFPS_Blank_Sternum.description>Install a bionic limb</installLingFPS_Blank_Sternum.description>
+  <installLingFPS_Blank_Sternum.jobString>in surgery.</installLingFPS_Blank_Sternum.jobString>
+  <installLingFPS_Blank_Clavicle.label>Install Plain White Tech Collarbone</installLingFPS_Blank_Clavicle.label>
+  <installLingFPS_Blank_Clavicle.description>Install a bionic limb</installLingFPS_Blank_Clavicle.description>
+  <installLingFPS_Blank_Clavicle.jobString>in surgery.</installLingFPS_Blank_Clavicle.jobString>
+  <installLingFPS_Blank_Pelvis.label>Install Plain White Tech Pelvis</installLingFPS_Blank_Pelvis.label>
+  <installLingFPS_Blank_Pelvis.description>Install a bionic limb</installLingFPS_Blank_Pelvis.description>
+  <installLingFPS_Blank_Pelvis.jobString>in surgery.</installLingFPS_Blank_Pelvis.jobString>
+  <installLingFPS_Blank_Humerus.label>Install Plain White Tech Humerus</installLingFPS_Blank_Humerus.label>
+  <installLingFPS_Blank_Humerus.description>Install a bionic limb</installLingFPS_Blank_Humerus.description>
+  <installLingFPS_Blank_Humerus.jobString>in surgery.</installLingFPS_Blank_Humerus.jobString>
+  <installLingFPS_Blank_Radius.label>Install Plain White Tech Radius</installLingFPS_Blank_Radius.label>
+  <installLingFPS_Blank_Radius.description>Install a bionic limb</installLingFPS_Blank_Radius.description>
+  <installLingFPS_Blank_Radius.jobString>in surgery.</installLingFPS_Blank_Radius.jobString>
+  <installLingFPS_Blank_Hand.label>Install Plain White Tech Hand</installLingFPS_Blank_Hand.label>
+  <installLingFPS_Blank_Hand.description>Install a bionic limb</installLingFPS_Blank_Hand.description>
+  <installLingFPS_Blank_Hand.jobString>in surgery.</installLingFPS_Blank_Hand.jobString>
+  <installLingFPS_Blank_Femur.label>Install Plain White Tech Femur</installLingFPS_Blank_Femur.label>
+  <installLingFPS_Blank_Femur.description>Install a bionic limb</installLingFPS_Blank_Femur.description>
+  <installLingFPS_Blank_Femur.jobString>in surgery.</installLingFPS_Blank_Femur.jobString>
+  <installLingFPS_Blank_Tibia.label>Install Plain White Tech Tibia</installLingFPS_Blank_Tibia.label>
+  <installLingFPS_Blank_Tibia.description>Install a bionic limb</installLingFPS_Blank_Tibia.description>
+  <installLingFPS_Blank_Tibia.jobString>in surgery.</installLingFPS_Blank_Tibia.jobString>
+  <installLingFPS_Blank_Foot.label>Install Plain White Tech Foot</installLingFPS_Blank_Foot.label>
+  <installLingFPS_Blank_Foot.description>Install a bionic limb</installLingFPS_Blank_Foot.description>
+  <installLingFPS_Blank_Foot.jobString>in surgery.</installLingFPS_Blank_Foot.jobString>
+  <installLingFPS_Blank_Heart.label>Install Plain White Tech Heart</installLingFPS_Blank_Heart.label>
+  <installLingFPS_Blank_Heart.description>Install a bionic limb</installLingFPS_Blank_Heart.description>
+  <installLingFPS_Blank_Heart.jobString>in surgery.</installLingFPS_Blank_Heart.jobString>
+  <installLingFPS_Blank_Kidney.label>Install Plain White Tech Kidney</installLingFPS_Blank_Kidney.label>
+  <installLingFPS_Blank_Kidney.description>Install a bionic limb</installLingFPS_Blank_Kidney.description>
+  <installLingFPS_Blank_Kidney.jobString>in surgery.</installLingFPS_Blank_Kidney.jobString>
+  <installLingFPS_Blank_Liver.label>Install Plain White Tech Liver</installLingFPS_Blank_Liver.label>
+  <installLingFPS_Blank_Liver.description>Install a bionic limb</installLingFPS_Blank_Liver.description>
+  <installLingFPS_Blank_Liver.jobString>in surgery.</installLingFPS_Blank_Liver.jobString>
+  <installLingFPS_Blank_Lung.label>Install Plain White Tech Lung</installLingFPS_Blank_Lung.label>
+  <installLingFPS_Blank_Lung.description>Install a bionic limb</installLingFPS_Blank_Lung.description>
+  <installLingFPS_Blank_Lung.jobString>in surgery.</installLingFPS_Blank_Lung.jobString>
+  <installLingFPS_Blank_Stomach.label>Install Plain White Tech Stomach</installLingFPS_Blank_Stomach.label>
+  <installLingFPS_Blank_Stomach.description>Install a bionic limb</installLingFPS_Blank_Stomach.description>
+  <installLingFPS_Blank_Stomach.jobString>in surgery.</installLingFPS_Blank_Stomach.jobString>
+  <installLingFPS_Blood_Brain.label>Install Red Blood Tech Brain</installLingFPS_Blood_Brain.label>
+  <installLingFPS_Blood_Brain.description>Install a bionic limb</installLingFPS_Blood_Brain.description>
+  <installLingFPS_Blood_Brain.jobString>in surgery.</installLingFPS_Blood_Brain.jobString>
+  <installLingFPS_Blood_Eye.label>Install Red Blood Tech Eye</installLingFPS_Blood_Eye.label>
+  <installLingFPS_Blood_Eye.description>Install a bionic limb</installLingFPS_Blood_Eye.description>
+  <installLingFPS_Blood_Eye.jobString>in surgery.</installLingFPS_Blood_Eye.jobString>
+  <installLingFPS_Blood_Ear.label>Install Red Blood Tech Ear</installLingFPS_Blood_Ear.label>
+  <installLingFPS_Blood_Ear.description>Install a bionic limb</installLingFPS_Blood_Ear.description>
+  <installLingFPS_Blood_Ear.jobString>in surgery.</installLingFPS_Blood_Ear.jobString>
+  <installLingFPS_Blood_Nose.label>Install Red Blood Tech Nose</installLingFPS_Blood_Nose.label>
+  <installLingFPS_Blood_Nose.description>Install a bionic limb</installLingFPS_Blood_Nose.description>
+  <installLingFPS_Blood_Nose.jobString>in surgery.</installLingFPS_Blood_Nose.jobString>
+  <installLingFPS_Blood_Jaw.label>Install Red Blood Tech Jaw</installLingFPS_Blood_Jaw.label>
+  <installLingFPS_Blood_Jaw.description>Install a bionic limb</installLingFPS_Blood_Jaw.description>
+  <installLingFPS_Blood_Jaw.jobString>in surgery.</installLingFPS_Blood_Jaw.jobString>
+  <installLingFPS_Blood_Spine.label>Install Red Blood Tech Spine</installLingFPS_Blood_Spine.label>
+  <installLingFPS_Blood_Spine.description>Install a bionic limb</installLingFPS_Blood_Spine.description>
+  <installLingFPS_Blood_Spine.jobString>in surgery.</installLingFPS_Blood_Spine.jobString>
+  <installLingFPS_Blood_Sternum.label>Install Red Blood Tech Sternum</installLingFPS_Blood_Sternum.label>
+  <installLingFPS_Blood_Sternum.description>Install a bionic limb</installLingFPS_Blood_Sternum.description>
+  <installLingFPS_Blood_Sternum.jobString>in surgery.</installLingFPS_Blood_Sternum.jobString>
+  <installLingFPS_Blood_Clavicle.label>Install Red Blood Tech Collarbone</installLingFPS_Blood_Clavicle.label>
+  <installLingFPS_Blood_Clavicle.description>Install a bionic limb</installLingFPS_Blood_Clavicle.description>
+  <installLingFPS_Blood_Clavicle.jobString>in surgery.</installLingFPS_Blood_Clavicle.jobString>
+  <installLingFPS_Blood_Pelvis.label>Install Red Blood Tech Pelvis</installLingFPS_Blood_Pelvis.label>
+  <installLingFPS_Blood_Pelvis.description>Install a bionic limb</installLingFPS_Blood_Pelvis.description>
+  <installLingFPS_Blood_Pelvis.jobString>in surgery.</installLingFPS_Blood_Pelvis.jobString>
+  <installLingFPS_Blood_Humerus.label>Install Red Blood Tech Humerus</installLingFPS_Blood_Humerus.label>
+  <installLingFPS_Blood_Humerus.description>Install a bionic limb</installLingFPS_Blood_Humerus.description>
+  <installLingFPS_Blood_Humerus.jobString>in surgery.</installLingFPS_Blood_Humerus.jobString>
+  <installLingFPS_Blood_Radius.label>Install Red Blood Tech Radius</installLingFPS_Blood_Radius.label>
+  <installLingFPS_Blood_Radius.description>Install a bionic limb</installLingFPS_Blood_Radius.description>
+  <installLingFPS_Blood_Radius.jobString>in surgery.</installLingFPS_Blood_Radius.jobString>
+  <installLingFPS_Blood_Hand.label>Install Red Blood Tech Hand</installLingFPS_Blood_Hand.label>
+  <installLingFPS_Blood_Hand.description>Install a bionic limb</installLingFPS_Blood_Hand.description>
+  <installLingFPS_Blood_Hand.jobString>in surgery.</installLingFPS_Blood_Hand.jobString>
+  <installLingFPS_Blood_Femur.label>Install Red Blood Tech Femur</installLingFPS_Blood_Femur.label>
+  <installLingFPS_Blood_Femur.description>Install a bionic limb</installLingFPS_Blood_Femur.description>
+  <installLingFPS_Blood_Femur.jobString>in surgery.</installLingFPS_Blood_Femur.jobString>
+  <installLingFPS_Blood_Tibia.label>Install Red Blood Tech Tibia</installLingFPS_Blood_Tibia.label>
+  <installLingFPS_Blood_Tibia.description>Install a bionic limb</installLingFPS_Blood_Tibia.description>
+  <installLingFPS_Blood_Tibia.jobString>in surgery.</installLingFPS_Blood_Tibia.jobString>
+  <installLingFPS_Blood_Foot.label>Install Red Blood Tech Foot</installLingFPS_Blood_Foot.label>
+  <installLingFPS_Blood_Foot.description>Install a bionic limb</installLingFPS_Blood_Foot.description>
+  <installLingFPS_Blood_Foot.jobString>in surgery.</installLingFPS_Blood_Foot.jobString>
+  <installLingFPS_Blood_Heart.label>Install Red Blood Tech Heart</installLingFPS_Blood_Heart.label>
+  <installLingFPS_Blood_Heart.description>Install a bionic limb</installLingFPS_Blood_Heart.description>
+  <installLingFPS_Blood_Heart.jobString>in surgery.</installLingFPS_Blood_Heart.jobString>
+  <installLingFPS_Blood_Kidney.label>Install Red Blood Tech Kidney</installLingFPS_Blood_Kidney.label>
+  <installLingFPS_Blood_Kidney.description>Install a bionic limb</installLingFPS_Blood_Kidney.description>
+  <installLingFPS_Blood_Kidney.jobString>in surgery.</installLingFPS_Blood_Kidney.jobString>
+  <installLingFPS_Blood_Liver.label>Install Red Blood Tech Liver</installLingFPS_Blood_Liver.label>
+  <installLingFPS_Blood_Liver.description>Install a bionic limb</installLingFPS_Blood_Liver.description>
+  <installLingFPS_Blood_Liver.jobString>in surgery.</installLingFPS_Blood_Liver.jobString>
+  <installLingFPS_Blood_Lung.label>Install Red Blood Tech Lung</installLingFPS_Blood_Lung.label>
+  <installLingFPS_Blood_Lung.description>Install a bionic limb</installLingFPS_Blood_Lung.description>
+  <installLingFPS_Blood_Lung.jobString>in surgery.</installLingFPS_Blood_Lung.jobString>
+  <installLingFPS_Blood_Stomach.label>Install Red Blood Tech Stomach</installLingFPS_Blood_Stomach.label>
+  <installLingFPS_Blood_Stomach.description>Install a bionic limb</installLingFPS_Blood_Stomach.description>
+  <installLingFPS_Blood_Stomach.jobString>in surgery.</installLingFPS_Blood_Stomach.jobString>
+  <installLingFPS_Turtle_Brain.label>Installation of Underbone techonlogy Brain</installLingFPS_Turtle_Brain.label>
+  <installLingFPS_Turtle_Brain.description>Install a bionic limb</installLingFPS_Turtle_Brain.description>
+  <installLingFPS_Turtle_Brain.jobString>in surgery.</installLingFPS_Turtle_Brain.jobString>
+  <installLingFPS_Turtle_Eye.label>Installation of Underbone techonlogy Eye</installLingFPS_Turtle_Eye.label>
+  <installLingFPS_Turtle_Eye.description>Install a bionic limb</installLingFPS_Turtle_Eye.description>
+  <installLingFPS_Turtle_Eye.jobString>in surgery.</installLingFPS_Turtle_Eye.jobString>
+  <installLingFPS_Turtle_Ear.label>Installation of Underbone techonlogy Ear</installLingFPS_Turtle_Ear.label>
+  <installLingFPS_Turtle_Ear.description>Install a bionic limb</installLingFPS_Turtle_Ear.description>
+  <installLingFPS_Turtle_Ear.jobString>in surgery.</installLingFPS_Turtle_Ear.jobString>
+  <installLingFPS_Turtle_Nose.label>Installation of Underbone techonlogy Nose</installLingFPS_Turtle_Nose.label>
+  <installLingFPS_Turtle_Nose.description>Install a bionic limb</installLingFPS_Turtle_Nose.description>
+  <installLingFPS_Turtle_Nose.jobString>in surgery.</installLingFPS_Turtle_Nose.jobString>
+  <installLingFPS_Turtle_Jaw.label>Installation of Underbone techonlogy Jaw</installLingFPS_Turtle_Jaw.label>
+  <installLingFPS_Turtle_Jaw.description>Install a bionic limb</installLingFPS_Turtle_Jaw.description>
+  <installLingFPS_Turtle_Jaw.jobString>in surgery.</installLingFPS_Turtle_Jaw.jobString>
+  <installLingFPS_Turtle_Spine.label>Installation of Underbone techonlogy Spine</installLingFPS_Turtle_Spine.label>
+  <installLingFPS_Turtle_Spine.description>Install a bionic limb</installLingFPS_Turtle_Spine.description>
+  <installLingFPS_Turtle_Spine.jobString>in surgery.</installLingFPS_Turtle_Spine.jobString>
+  <installLingFPS_Turtle_Sternum.label>Installation of Underbone techonlogy Sternum</installLingFPS_Turtle_Sternum.label>
+  <installLingFPS_Turtle_Sternum.description>Install a bionic limb</installLingFPS_Turtle_Sternum.description>
+  <installLingFPS_Turtle_Sternum.jobString>in surgery.</installLingFPS_Turtle_Sternum.jobString>
+  <installLingFPS_Turtle_Clavicle.label>Installation of Underbone techonlogy Collarbone</installLingFPS_Turtle_Clavicle.label>
+  <installLingFPS_Turtle_Clavicle.description>Install a bionic limb</installLingFPS_Turtle_Clavicle.description>
+  <installLingFPS_Turtle_Clavicle.jobString>in surgery.</installLingFPS_Turtle_Clavicle.jobString>
+  <installLingFPS_Turtle_Pelvis.label>Installation of Underbone techonlogy Pelvis</installLingFPS_Turtle_Pelvis.label>
+  <installLingFPS_Turtle_Pelvis.description>Install a bionic limb</installLingFPS_Turtle_Pelvis.description>
+  <installLingFPS_Turtle_Pelvis.jobString>in surgery.</installLingFPS_Turtle_Pelvis.jobString>
+  <installLingFPS_Turtle_Humerus.label>Installation of Underbone techonlogy Humerus</installLingFPS_Turtle_Humerus.label>
+  <installLingFPS_Turtle_Humerus.description>Install a bionic limb</installLingFPS_Turtle_Humerus.description>
+  <installLingFPS_Turtle_Humerus.jobString>in surgery.</installLingFPS_Turtle_Humerus.jobString>
+  <installLingFPS_Turtle_Radius.label>Installation of Underbone techonlogy Radius</installLingFPS_Turtle_Radius.label>
+  <installLingFPS_Turtle_Radius.description>Install a bionic limb</installLingFPS_Turtle_Radius.description>
+  <installLingFPS_Turtle_Radius.jobString>in surgery.</installLingFPS_Turtle_Radius.jobString>
+  <installLingFPS_Turtle_Hand.label>Installation of Underbone techonlogy Hand</installLingFPS_Turtle_Hand.label>
+  <installLingFPS_Turtle_Hand.description>Install a bionic limb</installLingFPS_Turtle_Hand.description>
+  <installLingFPS_Turtle_Hand.jobString>in surgery.</installLingFPS_Turtle_Hand.jobString>
+  <installLingFPS_Turtle_Femur.label>Installation of Underbone techonlogy Femur</installLingFPS_Turtle_Femur.label>
+  <installLingFPS_Turtle_Femur.description>Install a bionic limb</installLingFPS_Turtle_Femur.description>
+  <installLingFPS_Turtle_Femur.jobString>in surgery.</installLingFPS_Turtle_Femur.jobString>
+  <installLingFPS_Turtle_Tibia.label>Installation of Underbone techonlogy Tibia</installLingFPS_Turtle_Tibia.label>
+  <installLingFPS_Turtle_Tibia.description>Install a bionic limb</installLingFPS_Turtle_Tibia.description>
+  <installLingFPS_Turtle_Tibia.jobString>in surgery.</installLingFPS_Turtle_Tibia.jobString>
+  <installLingFPS_Turtle_Foot.label>Installation of Underbone techonlogy Foot</installLingFPS_Turtle_Foot.label>
+  <installLingFPS_Turtle_Foot.description>Install a bionic limb</installLingFPS_Turtle_Foot.description>
+  <installLingFPS_Turtle_Foot.jobString>in surgery.</installLingFPS_Turtle_Foot.jobString>
+  <installLingFPS_Turtle_Heart.label>Installation of Underbone techonlogy Heart</installLingFPS_Turtle_Heart.label>
+  <installLingFPS_Turtle_Heart.description>Install a bionic limb</installLingFPS_Turtle_Heart.description>
+  <installLingFPS_Turtle_Heart.jobString>in surgery.</installLingFPS_Turtle_Heart.jobString>
+  <installLingFPS_Turtle_Kidney.label>Installation of Underbone techonlogy Kidney</installLingFPS_Turtle_Kidney.label>
+  <installLingFPS_Turtle_Kidney.description>Install a bionic limb</installLingFPS_Turtle_Kidney.description>
+  <installLingFPS_Turtle_Kidney.jobString>in surgery.</installLingFPS_Turtle_Kidney.jobString>
+  <installLingFPS_Turtle_Liver.label>Installation of Underbone techonlogy Liver</installLingFPS_Turtle_Liver.label>
+  <installLingFPS_Turtle_Liver.description>Install a bionic limb</installLingFPS_Turtle_Liver.description>
+  <installLingFPS_Turtle_Liver.jobString>in surgery.</installLingFPS_Turtle_Liver.jobString>
+  <installLingFPS_Turtle_Lung.label>Installation of Underbone techonlogy Lung</installLingFPS_Turtle_Lung.label>
+  <installLingFPS_Turtle_Lung.description>Install a bionic limb</installLingFPS_Turtle_Lung.description>
+  <installLingFPS_Turtle_Lung.jobString>in surgery.</installLingFPS_Turtle_Lung.jobString>
+  <installLingFPS_Turtle_Stomach.label>Installation of Underbone techonlogy Stomach</installLingFPS_Turtle_Stomach.label>
+  <installLingFPS_Turtle_Stomach.description>Install a bionic limb</installLingFPS_Turtle_Stomach.description>
+  <installLingFPS_Turtle_Stomach.jobString>in surgery.</installLingFPS_Turtle_Stomach.jobString>
+</LanguageData>

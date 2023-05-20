@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeLingFPS_Blank.label>Make a plain white technology module</MakeLingFPS_Blank.label>
+  <MakeLingFPS_Blank.description>Make a plain white technology module</MakeLingFPS_Blank.description>
+  <MakeLingFPS_Blank.jobString>In the process of making a plain white technology module.</MakeLingFPS_Blank.jobString>
+  <MakeLingFPS_Blood.label>Make Red Blood Technology module</MakeLingFPS_Blood.label>
+  <MakeLingFPS_Blood.description>Make Red Blood Technology module</MakeLingFPS_Blood.description>
+  <MakeLingFPS_Blood.jobString>In the process of making Red Blood Technology mods.</MakeLingFPS_Blood.jobString>
+  <MakeLingFPS_Turtle.label>Make Underbone Technology module</MakeLingFPS_Turtle.label>
+  <MakeLingFPS_Turtle.description>Make Underbone Technology module</MakeLingFPS_Turtle.description>
+  <MakeLingFPS_Turtle.jobString>In the process of making Underbone Technology module</MakeLingFPS_Turtle.jobString>
+</LanguageData>
