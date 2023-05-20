@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- plain white -->
+  <LingFPS_Blank_Brain.label>Plain white bionic brain</LingFPS_Blank_Brain.label>
+  <LingFPS_Blank_Brain.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Brain.description>
+  <LingFPS_Blank_Brain.stages.0.label>Growing period</LingFPS_Blank_Brain.stages.0.label>
+  <LingFPS_Blank_Brain.stages.1.label>Development period</LingFPS_Blank_Brain.stages.1.label>
+  <LingFPS_Blank_Brain.stages.2.label>Reinforcement period</LingFPS_Blank_Brain.stages.2.label>
+  <LingFPS_Blank_Brain.stages.3.label>Full term</LingFPS_Blank_Brain.stages.3.label>
+  <LingFPS_Blank_Brain.labelNoun>limb</LingFPS_Blank_Brain.labelNoun>
+  <LingFPS_Blank_Eye.label>Plain white bionic eyes</LingFPS_Blank_Eye.label>
+  <LingFPS_Blank_Eye.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Eye.description>
+  <LingFPS_Blank_Eye.stages.0.label>Growing period</LingFPS_Blank_Eye.stages.0.label>
+  <LingFPS_Blank_Eye.stages.1.label>Development period</LingFPS_Blank_Eye.stages.1.label>
+  <LingFPS_Blank_Eye.stages.2.label>Reinforcement period</LingFPS_Blank_Eye.stages.2.label>
+  <LingFPS_Blank_Eye.stages.3.label>Full term</LingFPS_Blank_Eye.stages.3.label>
+  <LingFPS_Blank_Eye.labelNoun>limb</LingFPS_Blank_Eye.labelNoun>
+  <LingFPS_Blank_Ear.label>Plain white bionic ear</LingFPS_Blank_Ear.label>
+  <LingFPS_Blank_Ear.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Ear.description>
+  <LingFPS_Blank_Ear.stages.0.label>Growing period</LingFPS_Blank_Ear.stages.0.label>
+  <LingFPS_Blank_Ear.stages.1.label>Development period</LingFPS_Blank_Ear.stages.1.label>
+  <LingFPS_Blank_Ear.stages.2.label>Reinforcement period</LingFPS_Blank_Ear.stages.2.label>
+  <LingFPS_Blank_Ear.stages.3.label>Full term</LingFPS_Blank_Ear.stages.3.label>
+  <LingFPS_Blank_Ear.labelNoun>limb</LingFPS_Blank_Ear.labelNoun>
+  <LingFPS_Blank_Nose.label>Plain white bionic nose</LingFPS_Blank_Nose.label>
+  <LingFPS_Blank_Nose.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Nose.description>
+  <LingFPS_Blank_Nose.stages.0.label>Growing period</LingFPS_Blank_Nose.stages.0.label>
+  <LingFPS_Blank_Nose.stages.1.label>Development period</LingFPS_Blank_Nose.stages.1.label>
+  <LingFPS_Blank_Nose.stages.2.label>Reinforcement period</LingFPS_Blank_Nose.stages.2.label>
+  <LingFPS_Blank_Nose.stages.3.label>Full term</LingFPS_Blank_Nose.stages.3.label>
+  <LingFPS_Blank_Nose.labelNoun>limb</LingFPS_Blank_Nose.labelNoun>
+  <LingFPS_Blank_Jaw.label>Plain white bionic jaw</LingFPS_Blank_Jaw.label>
+  <LingFPS_Blank_Jaw.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Jaw.description>
+  <LingFPS_Blank_Jaw.stages.0.label>Growing period</LingFPS_Blank_Jaw.stages.0.label>
+  <LingFPS_Blank_Jaw.stages.1.label>Development period</LingFPS_Blank_Jaw.stages.1.label>
+  <LingFPS_Blank_Jaw.stages.2.label>Reinforcement period</LingFPS_Blank_Jaw.stages.2.label>
+  <LingFPS_Blank_Jaw.stages.3.label>Full term</LingFPS_Blank_Jaw.stages.3.label>
+  <LingFPS_Blank_Jaw.labelNoun>limb</LingFPS_Blank_Jaw.labelNoun>
+  <LingFPS_Blank_Spine.label>Plain white bionic spine</LingFPS_Blank_Spine.label>
+  <LingFPS_Blank_Spine.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Spine.description>
+  <LingFPS_Blank_Spine.stages.0.label>Growing period</LingFPS_Blank_Spine.stages.0.label>
+  <LingFPS_Blank_Spine.stages.1.label>Development period</LingFPS_Blank_Spine.stages.1.label>
+  <LingFPS_Blank_Spine.stages.2.label>Reinforcement period</LingFPS_Blank_Spine.stages.2.label>
+  <LingFPS_Blank_Spine.stages.3.label>Full term</LingFPS_Blank_Spine.stages.3.label>
+  <LingFPS_Blank_Spine.labelNoun>limb</LingFPS_Blank_Spine.labelNoun>
+  <LingFPS_Blank_Sternum.label>Plain white bionic sternum</LingFPS_Blank_Sternum.label>
+  <LingFPS_Blank_Sternum.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Sternum.description>
+  <LingFPS_Blank_Sternum.stages.0.label>Growing period</LingFPS_Blank_Sternum.stages.0.label>
+  <LingFPS_Blank_Sternum.stages.1.label>Development period</LingFPS_Blank_Sternum.stages.1.label>
+  <LingFPS_Blank_Sternum.stages.2.label>Reinforcement period</LingFPS_Blank_Sternum.stages.2.label>
+  <LingFPS_Blank_Sternum.stages.3.label>Full term</LingFPS_Blank_Sternum.stages.3.label>
+  <LingFPS_Blank_Sternum.labelNoun>limb</LingFPS_Blank_Sternum.labelNoun>
+  <LingFPS_Blank_Clavicle.label>Plain white bionic collarbone</LingFPS_Blank_Clavicle.label>
+  <LingFPS_Blank_Clavicle.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Clavicle.description>
+  <LingFPS_Blank_Clavicle.stages.0.label>Growing period</LingFPS_Blank_Clavicle.stages.0.label>
+  <LingFPS_Blank_Clavicle.stages.1.label>Development period</LingFPS_Blank_Clavicle.stages.1.label>
+  <LingFPS_Blank_Clavicle.stages.2.label>Reinforcement period</LingFPS_Blank_Clavicle.stages.2.label>
+  <LingFPS_Blank_Clavicle.stages.3.label>Full term</LingFPS_Blank_Clavicle.stages.3.label>
+  <LingFPS_Blank_Clavicle.labelNoun>limb</LingFPS_Blank_Clavicle.labelNoun>
+  <LingFPS_Blank_Pelvis.label>Plain white bionic pelvis</LingFPS_Blank_Pelvis.label>
+  <LingFPS_Blank_Pelvis.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Pelvis.description>
+  <LingFPS_Blank_Pelvis.stages.0.label>Growing period</LingFPS_Blank_Pelvis.stages.0.label>
+  <LingFPS_Blank_Pelvis.stages.1.label>Development period</LingFPS_Blank_Pelvis.stages.1.label>
+  <LingFPS_Blank_Pelvis.stages.2.label>Reinforcement period</LingFPS_Blank_Pelvis.stages.2.label>
+  <LingFPS_Blank_Pelvis.stages.3.label>Full term</LingFPS_Blank_Pelvis.stages.3.label>
+  <LingFPS_Blank_Pelvis.labelNoun>limb</LingFPS_Blank_Pelvis.labelNoun>
+  <LingFPS_Blank_Humerus.label>Plain white bionic humerus</LingFPS_Blank_Humerus.label>
+  <LingFPS_Blank_Humerus.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Humerus.description>
+  <LingFPS_Blank_Humerus.stages.0.label>Growing period</LingFPS_Blank_Humerus.stages.0.label>
+  <LingFPS_Blank_Humerus.stages.1.label>Development period</LingFPS_Blank_Humerus.stages.1.label>
+  <LingFPS_Blank_Humerus.stages.2.label>Reinforcement period</LingFPS_Blank_Humerus.stages.2.label>
+  <LingFPS_Blank_Humerus.stages.3.label>Full term</LingFPS_Blank_Humerus.stages.3.label>
+  <LingFPS_Blank_Humerus.labelNoun>limb</LingFPS_Blank_Humerus.labelNoun>
+  <LingFPS_Blank_Radius.label>Plain white bionic radius</LingFPS_Blank_Radius.label>
+  <LingFPS_Blank_Radius.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Radius.description>
+  <LingFPS_Blank_Radius.stages.0.label>Growing period</LingFPS_Blank_Radius.stages.0.label>
+  <LingFPS_Blank_Radius.stages.1.label>Development period</LingFPS_Blank_Radius.stages.1.label>
+  <LingFPS_Blank_Radius.stages.2.label>Reinforcement period</LingFPS_Blank_Radius.stages.2.label>
+  <LingFPS_Blank_Radius.stages.3.label>Full term</LingFPS_Blank_Radius.stages.3.label>
+  <LingFPS_Blank_Radius.labelNoun>limb</LingFPS_Blank_Radius.labelNoun>
+  <LingFPS_Blank_Hand.label>Plain white bionic hands</LingFPS_Blank_Hand.label>
+  <LingFPS_Blank_Hand.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Hand.description>
+  <LingFPS_Blank_Hand.comps.2.tools.0.label>Fist</LingFPS_Blank_Hand.comps.2.tools.0.label>
+  <LingFPS_Blank_Hand.stages.0.label>Growing period</LingFPS_Blank_Hand.stages.0.label>
+  <LingFPS_Blank_Hand.stages.1.label>Development period</LingFPS_Blank_Hand.stages.1.label>
+  <LingFPS_Blank_Hand.stages.2.label>Reinforcement period</LingFPS_Blank_Hand.stages.2.label>
+  <LingFPS_Blank_Hand.stages.3.label>Full term</LingFPS_Blank_Hand.stages.3.label>
+  <LingFPS_Blank_Hand.labelNoun>limb</LingFPS_Blank_Hand.labelNoun>
+  <LingFPS_Blank_Femur.label>Plain white bionic femur</LingFPS_Blank_Femur.label>
+  <LingFPS_Blank_Femur.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Femur.description>
+  <LingFPS_Blank_Femur.stages.0.label>Growing period</LingFPS_Blank_Femur.stages.0.label>
+  <LingFPS_Blank_Femur.stages.1.label>Development period</LingFPS_Blank_Femur.stages.1.label>
+  <LingFPS_Blank_Femur.stages.2.label>Reinforcement period</LingFPS_Blank_Femur.stages.2.label>
+  <LingFPS_Blank_Femur.stages.3.label>Full term</LingFPS_Blank_Femur.stages.3.label>
+  <LingFPS_Blank_Femur.labelNoun>limb</LingFPS_Blank_Femur.labelNoun>
+  <LingFPS_Blank_Tibia.label>Plain white bionic tibia</LingFPS_Blank_Tibia.label>
+  <LingFPS_Blank_Tibia.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Tibia.description>
+  <LingFPS_Blank_Tibia.stages.0.label>Growing period</LingFPS_Blank_Tibia.stages.0.label>
+  <LingFPS_Blank_Tibia.stages.1.label>Development period</LingFPS_Blank_Tibia.stages.1.label>
+  <LingFPS_Blank_Tibia.stages.2.label>Reinforcement period</LingFPS_Blank_Tibia.stages.2.label>
+  <LingFPS_Blank_Tibia.stages.3.label>Full term</LingFPS_Blank_Tibia.stages.3.label>
+  <LingFPS_Blank_Tibia.labelNoun>limb</LingFPS_Blank_Tibia.labelNoun>
+  <LingFPS_Blank_Foot.label>Plain white bionic feet</LingFPS_Blank_Foot.label>
+  <LingFPS_Blank_Foot.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Foot.description>
+  <LingFPS_Blank_Foot.stages.0.label>Growing period</LingFPS_Blank_Foot.stages.0.label>
+  <LingFPS_Blank_Foot.stages.1.label>Development period</LingFPS_Blank_Foot.stages.1.label>
+  <LingFPS_Blank_Foot.stages.2.label>Reinforcement period</LingFPS_Blank_Foot.stages.2.label>
+  <LingFPS_Blank_Foot.stages.3.label>Full term</LingFPS_Blank_Foot.stages.3.label>
+  <LingFPS_Blank_Foot.labelNoun>limb</LingFPS_Blank_Foot.labelNoun>
+  <LingFPS_Blank_Heart.label>Plain white bionic heart</LingFPS_Blank_Heart.label>
+  <LingFPS_Blank_Heart.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Heart.description>
+  <LingFPS_Blank_Heart.stages.0.label>Growing period</LingFPS_Blank_Heart.stages.0.label>
+  <LingFPS_Blank_Heart.stages.1.label>Development period</LingFPS_Blank_Heart.stages.1.label>
+  <LingFPS_Blank_Heart.stages.2.label>Reinforcement period</LingFPS_Blank_Heart.stages.2.label>
+  <LingFPS_Blank_Heart.stages.3.label>Full term</LingFPS_Blank_Heart.stages.3.label>
+  <LingFPS_Blank_Heart.labelNoun>limb</LingFPS_Blank_Heart.labelNoun>
+  <LingFPS_Blank_Kidney.label>Plain white bionic kidney</LingFPS_Blank_Kidney.label>
+  <LingFPS_Blank_Kidney.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Kidney.description>
+  <LingFPS_Blank_Kidney.stages.0.label>Growing period</LingFPS_Blank_Kidney.stages.0.label>
+  <LingFPS_Blank_Kidney.stages.1.label>Development period</LingFPS_Blank_Kidney.stages.1.label>
+  <LingFPS_Blank_Kidney.stages.2.label>Reinforcement period</LingFPS_Blank_Kidney.stages.2.label>
+  <LingFPS_Blank_Kidney.stages.3.label>Full term</LingFPS_Blank_Kidney.stages.3.label>
+  <LingFPS_Blank_Kidney.labelNoun>limb</LingFPS_Blank_Kidney.labelNoun>
+  <LingFPS_Blank_Liver.label>Plain white biomimetic liver</LingFPS_Blank_Liver.label>
+  <LingFPS_Blank_Liver.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Liver.description>
+  <LingFPS_Blank_Liver.stages.0.label>Growing period</LingFPS_Blank_Liver.stages.0.label>
+  <LingFPS_Blank_Liver.stages.1.label>Development period</LingFPS_Blank_Liver.stages.1.label>
+  <LingFPS_Blank_Liver.stages.2.label>Reinforcement period</LingFPS_Blank_Liver.stages.2.label>
+  <LingFPS_Blank_Liver.stages.3.label>Full term</LingFPS_Blank_Liver.stages.3.label>
+  <LingFPS_Blank_Liver.labelNoun>limb</LingFPS_Blank_Liver.labelNoun>
+  <LingFPS_Blank_Lung.label>Plain white bionic lung</LingFPS_Blank_Lung.label>
+  <LingFPS_Blank_Lung.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Lung.description>
+  <LingFPS_Blank_Lung.stages.0.label>Growing period</LingFPS_Blank_Lung.stages.0.label>
+  <LingFPS_Blank_Lung.stages.1.label>Development period</LingFPS_Blank_Lung.stages.1.label>
+  <LingFPS_Blank_Lung.stages.2.label>Reinforcement period</LingFPS_Blank_Lung.stages.2.label>
+  <LingFPS_Blank_Lung.stages.3.label>Full term</LingFPS_Blank_Lung.stages.3.label>
+  <LingFPS_Blank_Lung.labelNoun>limb</LingFPS_Blank_Lung.labelNoun>
+  <LingFPS_Blank_Stomach.label>Plain white bionic stomach</LingFPS_Blank_Stomach.label>
+  <LingFPS_Blank_Stomach.description>A plain white bionic module implanted in the human body, whose effects are enhanced over time</LingFPS_Blank_Stomach.description>
+  <LingFPS_Blank_Stomach.stages.0.label>Growing period</LingFPS_Blank_Stomach.stages.0.label>
+  <LingFPS_Blank_Stomach.stages.1.label>Development period</LingFPS_Blank_Stomach.stages.1.label>
+  <LingFPS_Blank_Stomach.stages.2.label>Reinforcement period</LingFPS_Blank_Stomach.stages.2.label>
+  <LingFPS_Blank_Stomach.stages.3.label>Full term</LingFPS_Blank_Stomach.stages.3.label>
+  <LingFPS_Blank_Stomach.labelNoun>limb</LingFPS_Blank_Stomach.labelNoun>
+  <LingFPS_Blank_TaoZhuang.label>A plain white Salute</LingFPS_Blank_TaoZhuang.label>
+  <LingFPS_Blank_TaoZhuang.description>The resonance effect between the bionic modules from plain white can give the installer a great increase, and for every five bionic pieces of the same type installed, its effect will be enhanced by one level, up to five levels.</LingFPS_Blank_TaoZhuang.description>
+  <LingFPS_Blank_TaoZhuang.stages.0.label>lv.0</LingFPS_Blank_TaoZhuang.stages.0.label>
+  <LingFPS_Blank_TaoZhuang.stages.1.label>lv.1</LingFPS_Blank_TaoZhuang.stages.1.label>
+  <LingFPS_Blank_TaoZhuang.stages.2.label>lv.2</LingFPS_Blank_TaoZhuang.stages.2.label>
+  <LingFPS_Blank_TaoZhuang.stages.3.label>lv.3</LingFPS_Blank_TaoZhuang.stages.3.label>
+  <LingFPS_Blank_TaoZhuang.stages.4.label>lv.4</LingFPS_Blank_TaoZhuang.stages.4.label>
+  <LingFPS_Blank_TaoZhuang.stages.5.label>lv.5</LingFPS_Blank_TaoZhuang.stages.5.label>
+  <LingFPS_Blank_TaoZhuang.stages.6.label>lv.6</LingFPS_Blank_TaoZhuang.stages.6.label>
+  <!-- red blood -->
+  <LingFPS_Blood_Brain.label>Red blood bionic brain</LingFPS_Blood_Brain.label>
+  <LingFPS_Blood_Brain.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills </LingFPS_Blood_Brain.description>
+  <LingFPS_Blood_Brain.stages.0.label>Thirsty for blood</LingFPS_Blood_Brain.stages.0.label>
+  <LingFPS_Blood_Brain.stages.1.label>Blood gushing</LingFPS_Blood_Brain.stages.1.label>
+  <LingFPS_Blood_Brain.stages.2.label>Bloody movement</LingFPS_Blood_Brain.stages.2.label>
+  <LingFPS_Blood_Brain.stages.3.label>Blood boiling</LingFPS_Blood_Brain.stages.3.label>
+  <LingFPS_Blood_Brain.labelNoun>limb</LingFPS_Blood_Brain.labelNoun>
+  <LingFPS_Blood_Eye.label>Red blood bionic eye</LingFPS_Blood_Eye.label>
+  <LingFPS_Blood_Eye.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Eye.description>
+  <LingFPS_Blood_Eye.stages.0.label>Thirsty for blood</LingFPS_Blood_Eye.stages.0.label>
+  <LingFPS_Blood_Eye.stages.1.label>Blood gushing</LingFPS_Blood_Eye.stages.1.label>
+  <LingFPS_Blood_Eye.stages.2.label>Bloody movement</LingFPS_Blood_Eye.stages.2.label>
+  <LingFPS_Blood_Eye.stages.3.label>Blood boiling</LingFPS_Blood_Eye.stages.3.label>
+  <LingFPS_Blood_Eye.labelNoun>limb</LingFPS_Blood_Eye.labelNoun>
+  <LingFPS_Blood_Ear.label>Red blood bionic ear</LingFPS_Blood_Ear.label>
+  <LingFPS_Blood_Ear.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Ear.description>
+  <LingFPS_Blood_Ear.stages.0.label>Thirsty for blood</LingFPS_Blood_Ear.stages.0.label>
+  <LingFPS_Blood_Ear.stages.1.label>Blood gushing</LingFPS_Blood_Ear.stages.1.label>
+  <LingFPS_Blood_Ear.stages.2.label>Bloody movement</LingFPS_Blood_Ear.stages.2.label>
+  <LingFPS_Blood_Ear.stages.3.label>Blood boiling</LingFPS_Blood_Ear.stages.3.label>
+  <LingFPS_Blood_Ear.labelNoun>limb</LingFPS_Blood_Ear.labelNoun>
+  <LingFPS_Blood_Nose.label>Red blood bionic nose</LingFPS_Blood_Nose.label>
+  <LingFPS_Blood_Nose.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Nose.description>
+  <LingFPS_Blood_Nose.stages.0.label>Thirsty for blood</LingFPS_Blood_Nose.stages.0.label>
+  <LingFPS_Blood_Nose.stages.1.label>Blood gushing</LingFPS_Blood_Nose.stages.1.label>
+  <LingFPS_Blood_Nose.stages.2.label>Bloody movement</LingFPS_Blood_Nose.stages.2.label>
+  <LingFPS_Blood_Nose.stages.3.label>Blood boiling</LingFPS_Blood_Nose.stages.3.label>
+  <LingFPS_Blood_Nose.labelNoun>limb</LingFPS_Blood_Nose.labelNoun>
+  <LingFPS_Blood_Jaw.label>Red blood bionic jaw</LingFPS_Blood_Jaw.label>
+  <LingFPS_Blood_Jaw.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Jaw.description>
+  <LingFPS_Blood_Jaw.stages.0.label>Thirsty for blood</LingFPS_Blood_Jaw.stages.0.label>
+  <LingFPS_Blood_Jaw.stages.1.label>Blood gushing</LingFPS_Blood_Jaw.stages.1.label>
+  <LingFPS_Blood_Jaw.stages.2.label>Bloody movement</LingFPS_Blood_Jaw.stages.2.label>
+  <LingFPS_Blood_Jaw.stages.3.label>Blood boiling</LingFPS_Blood_Jaw.stages.3.label>
+  <LingFPS_Blood_Jaw.labelNoun>limb</LingFPS_Blood_Jaw.labelNoun>
+  <LingFPS_Blood_Spine.label>Red blood bionic spine</LingFPS_Blood_Spine.label>
+  <LingFPS_Blood_Spine.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Spine.description>
+  <LingFPS_Blood_Spine.stages.0.label>Thirsty for blood</LingFPS_Blood_Spine.stages.0.label>
+  <LingFPS_Blood_Spine.stages.1.label>Blood gushing</LingFPS_Blood_Spine.stages.1.label>
+  <LingFPS_Blood_Spine.stages.2.label>Bloody movement</LingFPS_Blood_Spine.stages.2.label>
+  <LingFPS_Blood_Spine.stages.3.label>Blood boiling</LingFPS_Blood_Spine.stages.3.label>
+  <LingFPS_Blood_Spine.labelNoun>limb</LingFPS_Blood_Spine.labelNoun>
+  <LingFPS_Blood_Sternum.label>Red blood bionic Sternum</LingFPS_Blood_Sternum.label>
+  <LingFPS_Blood_Sternum.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Sternum.description>
+  <LingFPS_Blood_Sternum.stages.0.label>Thirsty for blood</LingFPS_Blood_Sternum.stages.0.label>
+  <LingFPS_Blood_Sternum.stages.1.label>Blood gushing</LingFPS_Blood_Sternum.stages.1.label>
+  <LingFPS_Blood_Sternum.stages.2.label>Bloody movement</LingFPS_Blood_Sternum.stages.2.label>
+  <LingFPS_Blood_Sternum.stages.3.label>Blood boiling</LingFPS_Blood_Sternum.stages.3.label>
+  <LingFPS_Blood_Sternum.labelNoun>limb</LingFPS_Blood_Sternum.labelNoun>
+  <LingFPS_Blood_Clavicle.label>Red blood bionic collarbone</LingFPS_Blood_Clavicle.label>
+  <LingFPS_Blood_Clavicle.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Clavicle.description>
+  <LingFPS_Blood_Clavicle.stages.0.label>Thirsty for blood</LingFPS_Blood_Clavicle.stages.0.label>
+  <LingFPS_Blood_Clavicle.stages.1.label>Blood gushing</LingFPS_Blood_Clavicle.stages.1.label>
+  <LingFPS_Blood_Clavicle.stages.2.label>Bloody movement</LingFPS_Blood_Clavicle.stages.2.label>
+  <LingFPS_Blood_Clavicle.stages.3.label>Blood boiling</LingFPS_Blood_Clavicle.stages.3.label>
+  <LingFPS_Blood_Clavicle.labelNoun>limb</LingFPS_Blood_Clavicle.labelNoun>
+  <LingFPS_Blood_Pelvis.label>Red blood bionic Pelvis</LingFPS_Blood_Pelvis.label>
+  <LingFPS_Blood_Pelvis.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Pelvis.description>
+  <LingFPS_Blood_Pelvis.stages.0.label>Thirsty for blood</LingFPS_Blood_Pelvis.stages.0.label>
+  <LingFPS_Blood_Pelvis.stages.1.label>Blood gushing</LingFPS_Blood_Pelvis.stages.1.label>
+  <LingFPS_Blood_Pelvis.stages.2.label>Bloody movement</LingFPS_Blood_Pelvis.stages.2.label>
+  <LingFPS_Blood_Pelvis.stages.3.label>Blood boiling</LingFPS_Blood_Pelvis.stages.3.label>
+  <LingFPS_Blood_Pelvis.labelNoun>limb</LingFPS_Blood_Pelvis.labelNoun>
+  <LingFPS_Blood_Humerus.label>Red blood bionic humerus</LingFPS_Blood_Humerus.label>
+  <LingFPS_Blood_Humerus.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Humerus.description>
+  <LingFPS_Blood_Humerus.stages.0.label>Thirsty for blood</LingFPS_Blood_Humerus.stages.0.label>
+  <LingFPS_Blood_Humerus.stages.1.label>Blood gushing</LingFPS_Blood_Humerus.stages.1.label>
+  <LingFPS_Blood_Humerus.stages.2.label>Bloody movement</LingFPS_Blood_Humerus.stages.2.label>
+  <LingFPS_Blood_Humerus.stages.3.label>Blood boiling</LingFPS_Blood_Humerus.stages.3.label>
+  <LingFPS_Blood_Humerus.labelNoun>limb</LingFPS_Blood_Humerus.labelNoun>
+  <LingFPS_Blood_Radius.label>Red blood bionic radius</LingFPS_Blood_Radius.label>
+  <LingFPS_Blood_Radius.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Radius.description>
+  <LingFPS_Blood_Radius.stages.0.label>Thirsty for blood</LingFPS_Blood_Radius.stages.0.label>
+  <LingFPS_Blood_Radius.stages.1.label>Blood gushing</LingFPS_Blood_Radius.stages.1.label>
+  <LingFPS_Blood_Radius.stages.2.label>Bloody movement</LingFPS_Blood_Radius.stages.2.label>
+  <LingFPS_Blood_Radius.stages.3.label>Blood boiling</LingFPS_Blood_Radius.stages.3.label>
+  <LingFPS_Blood_Radius.labelNoun>limb</LingFPS_Blood_Radius.labelNoun>
+  <LingFPS_Blood_Hand.label>Red blood bionic hand</LingFPS_Blood_Hand.label>
+  <LingFPS_Blood_Hand.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Hand.description>
+  <LingFPS_Blood_Hand.comps.3.tools.0.label>Fist</LingFPS_Blood_Hand.comps.3.tools.0.label>
+  <LingFPS_Blood_Hand.stages.0.label>Thirsty for blood</LingFPS_Blood_Hand.stages.0.label>
+  <LingFPS_Blood_Hand.stages.1.label>Blood gushing</LingFPS_Blood_Hand.stages.1.label>
+  <LingFPS_Blood_Hand.stages.2.label>Bloody movement</LingFPS_Blood_Hand.stages.2.label>
+  <LingFPS_Blood_Hand.stages.3.label>Blood boiling</LingFPS_Blood_Hand.stages.3.label>
+  <LingFPS_Blood_Hand.labelNoun>limb</LingFPS_Blood_Hand.labelNoun>
+  <LingFPS_Blood_Femur.label>Red blood bionic femur</LingFPS_Blood_Femur.label>
+  <LingFPS_Blood_Femur.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Femur.description>
+  <LingFPS_Blood_Femur.stages.0.label>Thirsty for blood</LingFPS_Blood_Femur.stages.0.label>
+  <LingFPS_Blood_Femur.stages.1.label>Blood gushing</LingFPS_Blood_Femur.stages.1.label>
+  <LingFPS_Blood_Femur.stages.2.label>Bloody movement</LingFPS_Blood_Femur.stages.2.label>
+  <LingFPS_Blood_Femur.stages.3.label>Blood boiling</LingFPS_Blood_Femur.stages.3.label>
+  <LingFPS_Blood_Femur.labelNoun>limb</LingFPS_Blood_Femur.labelNoun>
+  <LingFPS_Blood_Tibia.label>Red blood bionic tibia</LingFPS_Blood_Tibia.label>
+  <LingFPS_Blood_Tibia.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Tibia.description>
+  <LingFPS_Blood_Tibia.stages.0.label>Thirsty for blood</LingFPS_Blood_Tibia.stages.0.label>
+  <LingFPS_Blood_Tibia.stages.1.label>Blood gushing</LingFPS_Blood_Tibia.stages.1.label>
+  <LingFPS_Blood_Tibia.stages.2.label>Bloody movement</LingFPS_Blood_Tibia.stages.2.label>
+  <LingFPS_Blood_Tibia.stages.3.label>Blood boiling</LingFPS_Blood_Tibia.stages.3.label>
+  <LingFPS_Blood_Tibia.labelNoun>limb</LingFPS_Blood_Tibia.labelNoun>
+  <LingFPS_Blood_Foot.label>Red blood bionic Foot</LingFPS_Blood_Foot.label>
+  <LingFPS_Blood_Foot.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Foot.description>
+  <LingFPS_Blood_Foot.stages.0.label>Thirsty for blood</LingFPS_Blood_Foot.stages.0.label>
+  <LingFPS_Blood_Foot.stages.1.label>Blood gushing</LingFPS_Blood_Foot.stages.1.label>
+  <LingFPS_Blood_Foot.stages.2.label>Bloody movement</LingFPS_Blood_Foot.stages.2.label>
+  <LingFPS_Blood_Foot.stages.3.label>Blood boiling</LingFPS_Blood_Foot.stages.3.label>
+  <LingFPS_Blood_Foot.labelNoun>limb</LingFPS_Blood_Foot.labelNoun>
+  <LingFPS_Blood_Heart.label>Red blood bionic heart</LingFPS_Blood_Heart.label>
+  <LingFPS_Blood_Heart.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Heart.description>
+  <LingFPS_Blood_Heart.stages.0.label>Thirsty for blood</LingFPS_Blood_Heart.stages.0.label>
+  <LingFPS_Blood_Heart.stages.1.label>Blood gushing</LingFPS_Blood_Heart.stages.1.label>
+  <LingFPS_Blood_Heart.stages.2.label>Bloody movement</LingFPS_Blood_Heart.stages.2.label>
+  <LingFPS_Blood_Heart.stages.3.label>Blood boiling</LingFPS_Blood_Heart.stages.3.label>
+  <LingFPS_Blood_Heart.labelNoun>limb</LingFPS_Blood_Heart.labelNoun>
+  <LingFPS_Blood_Kidney.label>Red blood bionic kidney</LingFPS_Blood_Kidney.label>
+  <LingFPS_Blood_Kidney.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Kidney.description>
+  <LingFPS_Blood_Kidney.stages.0.label>Thirsty for blood</LingFPS_Blood_Kidney.stages.0.label>
+  <LingFPS_Blood_Kidney.stages.1.label>Blood gushing</LingFPS_Blood_Kidney.stages.1.label>
+  <LingFPS_Blood_Kidney.stages.2.label>Bloody movement</LingFPS_Blood_Kidney.stages.2.label>
+  <LingFPS_Blood_Kidney.stages.3.label>Blood boiling</LingFPS_Blood_Kidney.stages.3.label>
+  <LingFPS_Blood_Kidney.labelNoun>limb</LingFPS_Blood_Kidney.labelNoun>
+  <LingFPS_Blood_Liver.label>Red blood bionic liver</LingFPS_Blood_Liver.label>
+  <LingFPS_Blood_Liver.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Liver.description>
+  <LingFPS_Blood_Liver.stages.0.label>Thirsty for blood</LingFPS_Blood_Liver.stages.0.label>
+  <LingFPS_Blood_Liver.stages.1.label>Blood gushing</LingFPS_Blood_Liver.stages.1.label>
+  <LingFPS_Blood_Liver.stages.2.label>Bloody movement</LingFPS_Blood_Liver.stages.2.label>
+  <LingFPS_Blood_Liver.stages.3.label>Blood boiling</LingFPS_Blood_Liver.stages.3.label>
+  <LingFPS_Blood_Liver.labelNoun>limb</LingFPS_Blood_Liver.labelNoun>
+  <LingFPS_Blood_Lung.label>Red blood bionic lung</LingFPS_Blood_Lung.label>
+  <LingFPS_Blood_Lung.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Lung.description>
+  <LingFPS_Blood_Lung.stages.0.label>Thirsty for blood</LingFPS_Blood_Lung.stages.0.label>
+  <LingFPS_Blood_Lung.stages.1.label>Blood gushing</LingFPS_Blood_Lung.stages.1.label>
+  <LingFPS_Blood_Lung.stages.2.label>Bloody movement</LingFPS_Blood_Lung.stages.2.label>
+  <LingFPS_Blood_Lung.stages.3.label>Blood boiling</LingFPS_Blood_Lung.stages.3.label>
+  <LingFPS_Blood_Lung.labelNoun>limb</LingFPS_Blood_Lung.labelNoun>
+  <LingFPS_Blood_Stomach.label>Red blood bionic stomach</LingFPS_Blood_Stomach.label>
+  <LingFPS_Blood_Stomach.description>A red-blooded bionic module implanted in the human body, whose effects weaken with the passage of time, but can be enhanced when performing kills</LingFPS_Blood_Stomach.description>
+  <LingFPS_Blood_Stomach.stages.0.label>Thirsty for blood</LingFPS_Blood_Stomach.stages.0.label>
+  <LingFPS_Blood_Stomach.stages.1.label>Blood gushing</LingFPS_Blood_Stomach.stages.1.label>
+  <LingFPS_Blood_Stomach.stages.2.label>Bloody movement</LingFPS_Blood_Stomach.stages.2.label>
+  <LingFPS_Blood_Stomach.stages.3.label>Blood boiling</LingFPS_Blood_Stomach.stages.3.label>
+  <LingFPS_Blood_Stomach.labelNoun>limb</LingFPS_Blood_Stomach.labelNoun>
+  <LingFPS_Blood_TaoZhuang.label>Praise of the God of War</LingFPS_Blood_TaoZhuang.label>
+  <LingFPS_Blood_TaoZhuang.description>The resonance effect between the bionic modules from Red Blood can give the installer a great increase, and for every five bionic pieces of the same type installed, its effect will be enhanced by one level, up to five levels.</LingFPS_Blood_TaoZhuang.description>
+  <LingFPS_Blood_TaoZhuang.stages.0.label>lv.0</LingFPS_Blood_TaoZhuang.stages.0.label>
+  <LingFPS_Blood_TaoZhuang.stages.1.label>lv.1</LingFPS_Blood_TaoZhuang.stages.1.label>
+  <LingFPS_Blood_TaoZhuang.stages.2.label>lv.2</LingFPS_Blood_TaoZhuang.stages.2.label>
+  <LingFPS_Blood_TaoZhuang.stages.3.label>lv.3</LingFPS_Blood_TaoZhuang.stages.3.label>
+  <LingFPS_Blood_TaoZhuang.stages.4.label>lv.4</LingFPS_Blood_TaoZhuang.stages.4.label>
+  <LingFPS_Blood_TaoZhuang.stages.5.label>lv.5</LingFPS_Blood_TaoZhuang.stages.5.label>
+  <LingFPS_Blood_TaoZhuang.stages.6.label>lv.6</LingFPS_Blood_TaoZhuang.stages.6.label>
+  <!-- dark bone -->
+  <LingFPS_Turtle_Brain.label>Underbone Bionic brain</LingFPS_Turtle_Brain.label>
+  <LingFPS_Turtle_Brain.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Brain.description>
+  <LingFPS_Turtle_Brain.stages.0.label>Soft</LingFPS_Turtle_Brain.stages.0.label>
+  <LingFPS_Turtle_Brain.stages.1.label>Mediocre</LingFPS_Turtle_Brain.stages.1.label>
+  <LingFPS_Turtle_Brain.stages.2.label>Sturdy</LingFPS_Turtle_Brain.stages.2.label>
+  <LingFPS_Turtle_Brain.stages.3.label>Perfect</LingFPS_Turtle_Brain.stages.3.label>
+  <LingFPS_Turtle_Brain.labelNoun>limb</LingFPS_Turtle_Brain.labelNoun>
+  <LingFPS_Turtle_Eye.label>Underbone Bionic eye</LingFPS_Turtle_Eye.label>
+  <LingFPS_Turtle_Eye.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Eye.description>
+  <LingFPS_Turtle_Eye.stages.0.label>Soft</LingFPS_Turtle_Eye.stages.0.label>
+  <LingFPS_Turtle_Eye.stages.1.label>Mediocre</LingFPS_Turtle_Eye.stages.1.label>
+  <LingFPS_Turtle_Eye.stages.2.label>Sturdy</LingFPS_Turtle_Eye.stages.2.label>
+  <LingFPS_Turtle_Eye.stages.3.label>Perfect</LingFPS_Turtle_Eye.stages.3.label>
+  <LingFPS_Turtle_Eye.labelNoun>limb</LingFPS_Turtle_Eye.labelNoun>
+  <LingFPS_Turtle_Ear.label>Underbone Bionic ear</LingFPS_Turtle_Ear.label>
+  <LingFPS_Turtle_Ear.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Ear.description>
+  <LingFPS_Turtle_Ear.stages.0.label>Soft</LingFPS_Turtle_Ear.stages.0.label>
+  <LingFPS_Turtle_Ear.stages.1.label>Mediocre</LingFPS_Turtle_Ear.stages.1.label>
+  <LingFPS_Turtle_Ear.stages.2.label>Sturdy</LingFPS_Turtle_Ear.stages.2.label>
+  <LingFPS_Turtle_Ear.stages.3.label>Perfect</LingFPS_Turtle_Ear.stages.3.label>
+  <LingFPS_Turtle_Ear.labelNoun>limb</LingFPS_Turtle_Ear.labelNoun>
+  <LingFPS_Turtle_Nose.label>Underbone Bionic Nose</LingFPS_Turtle_Nose.label>
+  <LingFPS_Turtle_Nose.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Nose.description>
+  <LingFPS_Turtle_Nose.stages.0.label>Soft</LingFPS_Turtle_Nose.stages.0.label>
+  <LingFPS_Turtle_Nose.stages.1.label>Mediocre</LingFPS_Turtle_Nose.stages.1.label>
+  <LingFPS_Turtle_Nose.stages.2.label>Sturdy</LingFPS_Turtle_Nose.stages.2.label>
+  <LingFPS_Turtle_Nose.stages.3.label>Perfect</LingFPS_Turtle_Nose.stages.3.label>
+  <LingFPS_Turtle_Nose.labelNoun>limb</LingFPS_Turtle_Nose.labelNoun>
+  <LingFPS_Turtle_Jaw.label>Underbone Bionic jaw</LingFPS_Turtle_Jaw.label>
+  <LingFPS_Turtle_Jaw.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Jaw.description>
+  <LingFPS_Turtle_Jaw.stages.0.label>Soft</LingFPS_Turtle_Jaw.stages.0.label>
+  <LingFPS_Turtle_Jaw.stages.1.label>Mediocre</LingFPS_Turtle_Jaw.stages.1.label>
+  <LingFPS_Turtle_Jaw.stages.2.label>Sturdy</LingFPS_Turtle_Jaw.stages.2.label>
+  <LingFPS_Turtle_Jaw.stages.3.label>Perfect</LingFPS_Turtle_Jaw.stages.3.label>
+  <LingFPS_Turtle_Jaw.labelNoun>limb</LingFPS_Turtle_Jaw.labelNoun>
+  <LingFPS_Turtle_Spine.label>Underbone Bionic spine</LingFPS_Turtle_Spine.label>
+  <LingFPS_Turtle_Spine.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Spine.description>
+  <LingFPS_Turtle_Spine.stages.0.label>Soft</LingFPS_Turtle_Spine.stages.0.label>
+  <LingFPS_Turtle_Spine.stages.1.label>Mediocre</LingFPS_Turtle_Spine.stages.1.label>
+  <LingFPS_Turtle_Spine.stages.2.label>Sturdy</LingFPS_Turtle_Spine.stages.2.label>
+  <LingFPS_Turtle_Spine.stages.3.label>Perfect</LingFPS_Turtle_Spine.stages.3.label>
+  <LingFPS_Turtle_Spine.labelNoun>limb</LingFPS_Turtle_Spine.labelNoun>
+  <LingFPS_Turtle_Sternum.label>Underbone Bionic sternum</LingFPS_Turtle_Sternum.label>
+  <LingFPS_Turtle_Sternum.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Sternum.description>
+  <LingFPS_Turtle_Sternum.stages.0.label>Soft</LingFPS_Turtle_Sternum.stages.0.label>
+  <LingFPS_Turtle_Sternum.stages.1.label>Mediocre</LingFPS_Turtle_Sternum.stages.1.label>
+  <LingFPS_Turtle_Sternum.stages.2.label>Sturdy</LingFPS_Turtle_Sternum.stages.2.label>
+  <LingFPS_Turtle_Sternum.stages.3.label>Perfect</LingFPS_Turtle_Sternum.stages.3.label>
+  <LingFPS_Turtle_Sternum.labelNoun>limb</LingFPS_Turtle_Sternum.labelNoun>
+  <LingFPS_Turtle_Clavicle.label>Underbone Bionic collarbone</LingFPS_Turtle_Clavicle.label>
+  <LingFPS_Turtle_Clavicle.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Clavicle.description>
+  <LingFPS_Turtle_Clavicle.stages.0.label>Soft</LingFPS_Turtle_Clavicle.stages.0.label>
+  <LingFPS_Turtle_Clavicle.stages.1.label>Mediocre</LingFPS_Turtle_Clavicle.stages.1.label>
+  <LingFPS_Turtle_Clavicle.stages.2.label>Sturdy</LingFPS_Turtle_Clavicle.stages.2.label>
+  <LingFPS_Turtle_Clavicle.stages.3.label>Perfect</LingFPS_Turtle_Clavicle.stages.3.label>
+  <LingFPS_Turtle_Clavicle.labelNoun>limb</LingFPS_Turtle_Clavicle.labelNoun>
+  <LingFPS_Turtle_Pelvis.label>Underbone Bionic pelvis</LingFPS_Turtle_Pelvis.label>
+  <LingFPS_Turtle_Pelvis.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Pelvis.description>
+  <LingFPS_Turtle_Pelvis.stages.0.label>Soft</LingFPS_Turtle_Pelvis.stages.0.label>
+  <LingFPS_Turtle_Pelvis.stages.1.label>Mediocre</LingFPS_Turtle_Pelvis.stages.1.label>
+  <LingFPS_Turtle_Pelvis.stages.2.label>Sturdy</LingFPS_Turtle_Pelvis.stages.2.label>
+  <LingFPS_Turtle_Pelvis.stages.3.label>Perfect</LingFPS_Turtle_Pelvis.stages.3.label>
+  <LingFPS_Turtle_Pelvis.labelNoun>limb</LingFPS_Turtle_Pelvis.labelNoun>
+  <LingFPS_Turtle_Humerus.label>Underbone Bionic humerus</LingFPS_Turtle_Humerus.label>
+  <LingFPS_Turtle_Humerus.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Humerus.description>
+  <LingFPS_Turtle_Humerus.stages.0.label>Soft</LingFPS_Turtle_Humerus.stages.0.label>
+  <LingFPS_Turtle_Humerus.stages.1.label>Mediocre</LingFPS_Turtle_Humerus.stages.1.label>
+  <LingFPS_Turtle_Humerus.stages.2.label>Sturdy</LingFPS_Turtle_Humerus.stages.2.label>
+  <LingFPS_Turtle_Humerus.stages.3.label>Perfect</LingFPS_Turtle_Humerus.stages.3.label>
+  <LingFPS_Turtle_Humerus.labelNoun>limb</LingFPS_Turtle_Humerus.labelNoun>
+  <LingFPS_Turtle_Radius.label>Underbone Bionic Radius</LingFPS_Turtle_Radius.label>
+  <LingFPS_Turtle_Radius.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Radius.description>
+  <LingFPS_Turtle_Radius.stages.0.label>Soft</LingFPS_Turtle_Radius.stages.0.label>
+  <LingFPS_Turtle_Radius.stages.1.label>Mediocre</LingFPS_Turtle_Radius.stages.1.label>
+  <LingFPS_Turtle_Radius.stages.2.label>Sturdy</LingFPS_Turtle_Radius.stages.2.label>
+  <LingFPS_Turtle_Radius.stages.3.label>Perfect</LingFPS_Turtle_Radius.stages.3.label>
+  <LingFPS_Turtle_Radius.labelNoun>limb</LingFPS_Turtle_Radius.labelNoun>
+  <LingFPS_Turtle_Hand.label>Underbone Bionic hand</LingFPS_Turtle_Hand.label>
+  <LingFPS_Turtle_Hand.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Hand.description>
+  <LingFPS_Turtle_Hand.comps.3.tools.0.label>fist</LingFPS_Turtle_Hand.comps.3.tools.0.label>
+  <LingFPS_Turtle_Hand.stages.0.label>Soft</LingFPS_Turtle_Hand.stages.0.label>
+  <LingFPS_Turtle_Hand.stages.1.label>Mediocre</LingFPS_Turtle_Hand.stages.1.label>
+  <LingFPS_Turtle_Hand.stages.2.label>Sturdy</LingFPS_Turtle_Hand.stages.2.label>
+  <LingFPS_Turtle_Hand.stages.3.label>Perfect</LingFPS_Turtle_Hand.stages.3.label>
+  <LingFPS_Turtle_Hand.labelNoun>limb</LingFPS_Turtle_Hand.labelNoun>
+  <LingFPS_Turtle_Femur.label>Underbone Bionic femur</LingFPS_Turtle_Femur.label>
+  <LingFPS_Turtle_Femur.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Femur.description>
+  <LingFPS_Turtle_Femur.stages.0.label>Soft</LingFPS_Turtle_Femur.stages.0.label>
+  <LingFPS_Turtle_Femur.stages.1.label>Mediocre</LingFPS_Turtle_Femur.stages.1.label>
+  <LingFPS_Turtle_Femur.stages.2.label>Sturdy</LingFPS_Turtle_Femur.stages.2.label>
+  <LingFPS_Turtle_Femur.stages.3.label>Perfect</LingFPS_Turtle_Femur.stages.3.label>
+  <LingFPS_Turtle_Femur.labelNoun>limb</LingFPS_Turtle_Femur.labelNoun>
+  <LingFPS_Turtle_Tibia.label>Underbone Bionic tibia</LingFPS_Turtle_Tibia.label>
+  <LingFPS_Turtle_Tibia.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Tibia.description>
+  <LingFPS_Turtle_Tibia.stages.0.label>Soft</LingFPS_Turtle_Tibia.stages.0.label>
+  <LingFPS_Turtle_Tibia.stages.1.label>Mediocre</LingFPS_Turtle_Tibia.stages.1.label>
+  <LingFPS_Turtle_Tibia.stages.2.label>Sturdy</LingFPS_Turtle_Tibia.stages.2.label>
+  <LingFPS_Turtle_Tibia.stages.3.label>Perfect</LingFPS_Turtle_Tibia.stages.3.label>
+  <LingFPS_Turtle_Tibia.labelNoun>limb</LingFPS_Turtle_Tibia.labelNoun>
+  <LingFPS_Turtle_Foot.label>Underbone Bionic foot</LingFPS_Turtle_Foot.label>
+  <LingFPS_Turtle_Foot.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Foot.description>
+  <LingFPS_Turtle_Foot.stages.0.label>Soft</LingFPS_Turtle_Foot.stages.0.label>
+  <LingFPS_Turtle_Foot.stages.1.label>Mediocre</LingFPS_Turtle_Foot.stages.1.label>
+  <LingFPS_Turtle_Foot.stages.2.label>Sturdy</LingFPS_Turtle_Foot.stages.2.label>
+  <LingFPS_Turtle_Foot.stages.3.label>Perfect</LingFPS_Turtle_Foot.stages.3.label>
+  <LingFPS_Turtle_Foot.labelNoun>limb</LingFPS_Turtle_Foot.labelNoun>
+  <LingFPS_Turtle_Heart.label>Underbone Bionic heart</LingFPS_Turtle_Heart.label>
+  <LingFPS_Turtle_Heart.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Heart.description>
+  <LingFPS_Turtle_Heart.stages.0.label>Soft</LingFPS_Turtle_Heart.stages.0.label>
+  <LingFPS_Turtle_Heart.stages.1.label>Mediocre</LingFPS_Turtle_Heart.stages.1.label>
+  <LingFPS_Turtle_Heart.stages.2.label>Sturdy</LingFPS_Turtle_Heart.stages.2.label>
+  <LingFPS_Turtle_Heart.stages.3.label>Perfect</LingFPS_Turtle_Heart.stages.3.label>
+  <LingFPS_Turtle_Heart.labelNoun>limb</LingFPS_Turtle_Heart.labelNoun>
+  <LingFPS_Turtle_Kidney.label>Underbone Bionic kidney</LingFPS_Turtle_Kidney.label>
+  <LingFPS_Turtle_Kidney.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Kidney.description>
+  <LingFPS_Turtle_Kidney.stages.0.label>Soft</LingFPS_Turtle_Kidney.stages.0.label>
+  <LingFPS_Turtle_Kidney.stages.1.label>Mediocre</LingFPS_Turtle_Kidney.stages.1.label>
+  <LingFPS_Turtle_Kidney.stages.2.label>Sturdy</LingFPS_Turtle_Kidney.stages.2.label>
+  <LingFPS_Turtle_Kidney.stages.3.label>Perfect</LingFPS_Turtle_Kidney.stages.3.label>
+  <LingFPS_Turtle_Kidney.labelNoun>limb</LingFPS_Turtle_Kidney.labelNoun>
+  <LingFPS_Turtle_Liver.label>Underbone Bionic liver</LingFPS_Turtle_Liver.label>
+  <LingFPS_Turtle_Liver.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Liver.description>
+  <LingFPS_Turtle_Liver.stages.0.label>Soft</LingFPS_Turtle_Liver.stages.0.label>
+  <LingFPS_Turtle_Liver.stages.1.label>Mediocre</LingFPS_Turtle_Liver.stages.1.label>
+  <LingFPS_Turtle_Liver.stages.2.label>Sturdy</LingFPS_Turtle_Liver.stages.2.label>
+  <LingFPS_Turtle_Liver.stages.3.label>Perfect</LingFPS_Turtle_Liver.stages.3.label>
+  <LingFPS_Turtle_Liver.labelNoun>limb</LingFPS_Turtle_Liver.labelNoun>
+  <LingFPS_Turtle_Lung.label>Underbone Bionic lung</LingFPS_Turtle_Lung.label>
+  <LingFPS_Turtle_Lung.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Lung.description>
+  <LingFPS_Turtle_Lung.stages.0.label>Soft</LingFPS_Turtle_Lung.stages.0.label>
+  <LingFPS_Turtle_Lung.stages.1.label>Mediocre</LingFPS_Turtle_Lung.stages.1.label>
+  <LingFPS_Turtle_Lung.stages.2.label>Sturdy</LingFPS_Turtle_Lung.stages.2.label>
+  <LingFPS_Turtle_Lung.stages.3.label>Perfect</LingFPS_Turtle_Lung.stages.3.label>
+  <LingFPS_Turtle_Lung.labelNoun>limb</LingFPS_Turtle_Lung.labelNoun>
+  <LingFPS_Turtle_Stomach.label>Underbone Bionic stomach</LingFPS_Turtle_Stomach.label>
+  <LingFPS_Turtle_Stomach.description>A bionic module implanted in the human body, its effect will be weakened with the passage of time, but can be strengthened by taking damage</LingFPS_Turtle_Stomach.description>
+  <LingFPS_Turtle_Stomach.stages.0.label>Soft</LingFPS_Turtle_Stomach.stages.0.label>
+  <LingFPS_Turtle_Stomach.stages.1.label>Mediocre</LingFPS_Turtle_Stomach.stages.1.label>
+  <LingFPS_Turtle_Stomach.stages.2.label>Sturdy</LingFPS_Turtle_Stomach.stages.2.label>
+  <LingFPS_Turtle_Stomach.stages.3.label>Perfect</LingFPS_Turtle_Stomach.stages.3.label>
+  <LingFPS_Turtle_Stomach.labelNoun>limb</LingFPS_Turtle_Stomach.labelNoun>
+  <LingFPS_Turtle_TaoZhuang.label>Baptism of underbone</LingFPS_Turtle_TaoZhuang.label>
+  <LingFPS_Turtle_TaoZhuang.description>The resonance effect between the bionic modules from Underbone can give a great increase to the installer, and for every five bionic pieces of the same type installed, its effect will be enhanced by one level, up to five levels.</LingFPS_Turtle_TaoZhuang.description>
+  <LingFPS_Turtle_TaoZhuang.stages.0.label>lv.0</LingFPS_Turtle_TaoZhuang.stages.0.label>
+  <LingFPS_Turtle_TaoZhuang.stages.1.label>lv.1</LingFPS_Turtle_TaoZhuang.stages.1.label>
+  <LingFPS_Turtle_TaoZhuang.stages.2.label>lv.2</LingFPS_Turtle_TaoZhuang.stages.2.label>
+  <LingFPS_Turtle_TaoZhuang.stages.3.label>lv.3</LingFPS_Turtle_TaoZhuang.stages.3.label>
+  <LingFPS_Turtle_TaoZhuang.stages.4.label>lv.4</LingFPS_Turtle_TaoZhuang.stages.4.label>
+  <LingFPS_Turtle_TaoZhuang.stages.5.label>lv.5</LingFPS_Turtle_TaoZhuang.stages.5.label>
+  <LingFPS_Turtle_TaoZhuang.stages.6.label>lv.6</LingFPS_Turtle_TaoZhuang.stages.6.label>
+  <!-- FPS -->
+</LanguageData>

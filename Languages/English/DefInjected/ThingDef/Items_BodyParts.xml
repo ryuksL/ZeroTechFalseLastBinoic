@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingFPS_Blank.label>Plain white bionic module</LingFPS_Blank.label>
+  <LingFPS_Blank.description>A plain white bionic module, can be split into installable form, after installation will become stronger over time.</LingFPS_Blank.description>
+  <LingFPS_Blank_I.label>Plain white bionic module(skeleton)</LingFPS_Blank_I.label>
+  <LingFPS_Blank_I.description>A plain white bionic module that records information about the human skeleton can be installed in the human body with a plain white bionic of skeletal parts, which will become stronger over time after installation.</LingFPS_Blank_I.description>
+  <LingFPS_Blank_II.label>Plain white bionic module(organ)</LingFPS_Blank_II.label>
+  <LingFPS_Blank_II.description>A plain white bionic module that records information about human organs and can be installed in the human body as a plain white bionic of organ parts, which will become stronger over time after installation.</LingFPS_Blank_II.description>
+  <LingFPS_Blood.label>Red blood bionic module</LingFPS_Blood.label>
+  <LingFPS_Blood.description>A Red Blood Bionic mod that can be split into installable forms that can be enhanced through combat.</LingFPS_Blood.description>
+  <LingFPS_Blood_I.label>Red blood bionic module(skeleton)</LingFPS_Blood_I.label>
+  <LingFPS_Blood_I.description>A red-blooded bionic module that records information about the human skeleton, which can be installed in the human body with red-blooded bionic of skeletal parts, which will become stronger over time after installation.</LingFPS_Blood_I.description>
+  <LingFPS_Blood_II.label>Red blood bionic module(organ)</LingFPS_Blood_II.label>
+  <LingFPS_Blood_II.description>A red-blooded bionic module that records information about human organs and can install red-blooded bionic of organ parts in the human body, which will become stronger over time after installation.</LingFPS_Blood_II.description>
+  <LingFPS_Turtle.label>Underbone Bionic module</LingFPS_Turtle.label>
+  <LingFPS_Turtle.description>A bionic module that can be split into installable forms and can be enhanced by being attacked.</LingFPS_Turtle.description>
+  <LingFPS_Turtle_I.label>Underbone Tech Bionic module(skeleton)</LingFPS_Turtle_I.label>
+  <LingFPS_Turtle_I.description>A bone bionic module that records information about the human skeleton, which can be installed in the human body as a bony part of the bone bionic, which will become stronger over time after installation</LingFPS_Turtle_I.description>
+  <LingFPS_Turtle_II.label>Underbone Tech Bionic module(organ)</LingFPS_Turtle_II.label>
+  <LingFPS_Turtle_II.description>A bionic module that records the information of human organs, can install the bionic bone of the organ part of the human body, and it will become stronger with time after installation.</LingFPS_Turtle_II.description>
+</LanguageData>
